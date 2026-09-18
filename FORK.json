@@ -1,0 +1,14 @@
+{
+  "fork": "minaiml/ramalama",
+  "source": "containers/ramalama",
+  "source_url": "https://github.com/containers/ramalama",
+  "commit": "e0a3bc2145334dca3269af51bbb5c2361f241cd7",
+  "branch": "main",
+  "fetched": "2026-09-18",
+  "upstream_license": "MIT",
+  "upstream_license_name": "MIT License",
+  "role": "laptop engine — local models as OCI containers",
+  "note": "Forked at the commit below with its licence intact. Upstream is the source of truth; this fork is a pinned reference for the minaiml delivery catalogue.",
+  "estate_license": "not applicable — no estate code added to this fork",
+  "policy": "https://github.com/minaiml"
+}
